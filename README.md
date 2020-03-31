@@ -2,6 +2,12 @@
 
 We will be sharing key performance metrics and regular TAM meeting minutes & recordings
 
+## Contents
+[1. Objectives](#objectives)
+
+[2. Minutes](#minutes)
+
+# <a name="objectives"></a>
 ## Customer/Puppet Objectives
 
 1. Design, build and maintain a scalable and redundant Customer Puppet Enterprise architecture that can support up to 25k nodes
@@ -32,5 +38,6 @@ We will be sharing key performance metrics and regular TAM meeting minutes & rec
 | ----------- |
 | ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1683217970&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1683217970&format=image) |
 
+# <a name="minutes"></a>
 ## Meeting Minutes
 [Meeting 12th March 2020](https://github.com/andytroup/Customer/blob/master/minutes/20200312.md)
