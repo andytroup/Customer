@@ -21,22 +21,22 @@ We will be sharing key performance metrics and regular TAM meeting minutes & rec
 
 | Objective 1 |   |
 | ----------- | - |
-| ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=611083352&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=611083352&format=image) | ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=273514048&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=273514048&format=image) |
-| ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1302373670&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1302373670&format=image) | |
+| ![https://github.com/andytroup/Customer/blob/master/images/node-coverage.png](https://github.com/andytroup/Customer/blob/master/images/node-coverage.png) | ![https://github.com/andytroup/Customer/blob/master/images/puppet-versions.png](https://github.com/andytroup/Customer/blob/master/images/puppet-versions.png) |
+| ![https://github.com/andytroup/Customer/blob/master/images/upgrade-failures.png](https://github.com/andytroup/Customer/blob/master/images/upgrade-failures.png) | |
 
 
 | Objective 2 |   |
 | ----------- | - |
-| ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1361417999&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1361417999&format=image) | ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=192379621&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=192379621&format=image) |
-| ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1858294692&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1858294692&format=image) | |
+| ![https://github.com/andytroup/Customer/blob/master/images/dev-pull.png](https://github.com/andytroup/Customer/blob/master/images/dev-pull.png) | ![https://github.com/andytroup/Customer/blob/master/images/prod-pull.png](https://github.com/andytroup/Customer/blob/master/images/prod-pull.png) |
+| ![https://github.com/andytroup/Customer/blob/master/images/pipelines.png](https://github.com/andytroup/Customer/blob/master/images/pipelines.png) | |
 
 | Objective 3 |   |
 | ----------- | - |
-| ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=311245070&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=311245070&format=image) | ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1908158681&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1908158681&format=image) |
+| ![https://github.com/andytroup/Customer/blob/master/images/completed-courses.png](https://github.com/andytroup/Customer/blob/master/images/completed-courses.png) | ![https://github.com/andytroup/Customer/blob/master/images/remote-enablement-attendees.png](https://github.com/andytroup/Customer/blob/master/images/remote-enablement-attendees.png) |
 
 | Objective 4 |
 | ----------- |
-| ![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1683217970&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=1683217970&format=image) |
+| ![https://github.com/andytroup/Customer/blob/master/images/compliance.png](https://github.com/andytroup/Customer/blob/master/images/compliance.png) |
 
 # <a name="minutes"></a>
 ## Meeting Minutes
