@@ -17,7 +17,7 @@ We will be sharing key performance metrics and regular TAM meeting minutes & rec
 
 
 ## Performance Metrics
-![https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=388875759&format=image](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWZXsLbj011r8MnJb0ChM7WHWCU-2oEVZbD7g2Z5WXjgSaU1qjVXRi9iNJ_Ji5WrbMFq_aBErEUD9_/pubchart?oid=388875759&format=image)
+![https://github.com/andytroup/Customer/blob/master/images/deployed.png](https://github.com/andytroup/Customer/blob/master/images/deployed.png)
 
 | Objective 1 |   |
 | ----------- | - |
